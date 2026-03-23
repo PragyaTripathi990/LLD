@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Pragya-LLD",
+			"path": "."
+		},
+		{
+			"name": "adapter-payments",
+			"path": "../CopyIt/adapter-payments"
+		},
+		{
+			"name": "flyweight-markers",
+			"path": "../CopyIt/flyweight-markers"
+		},
+		{
+			"name": "proxy-reports",
+			"path": "../CopyIt/proxy-reports"
+		}
+	],
+	"settings": {}
+}
